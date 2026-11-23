@@ -1,9 +1,20 @@
+# Local KiCad editor state and caches
 *.kicad_prl
 *.lck
 fp-info-cache
 _autosave-*
+# Python state
 __pycache__/
 *.py[cod]
 .venv/
+# Machine-specific files and secrets
+.DS_Store
 .env
 .env.*
+.codex/
+.agents/
+.aws/
+# Packaging outputs
+github-repo/
+*-github.zip
+# Preserve checked-in simulation plots, raw data, logs and backup archives.

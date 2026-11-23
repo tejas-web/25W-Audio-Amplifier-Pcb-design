@@ -1,0 +1,7 @@
+* Educational behavioural approximation, NOT a manufacturer TDA2050 model.
+* Ideal high-gain amplifier with arbitrary 2 V rail headroom and 0.1 ohm output.
+* No thermal/current protection, slew rate, frequency compensation or parasitics.
+.subckt AMP_APPROX plus minus vp vn out
+Bdrive drive 0 V=10*tanh(10000*V(plus,minus))
+Rout drive out 0.1
+.ends AMP_APPROX

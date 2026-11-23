@@ -1,0 +1,16 @@
+Reference,Value,Footprint
+C1,1uf,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C2,22uF,Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C3,100nF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+C4,220uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+C5,100nF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+C6,100nF,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm
+C7,220uF,Capacitor_THT:CP_Radial_D8.0mm_P3.50mm
+J1,Audio_Output,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
+J2,Audio_Input,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal"
+J4,Power Supply,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-3_1x03_P5.00mm_Horizontal"
+R1,22K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R2,680,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R3,22K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R4,4.7,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+U1,TDA2050,Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical

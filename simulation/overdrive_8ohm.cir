@@ -1,0 +1,20 @@
+TDA2050 circuit connectivity check - APPROXIMATE MODEL
+.include amplifier_approx.lib
+Vpositive vcc 0 12
+Vnegative vee 0 -12
+Vinput input 0 DC 0 AC 1 SIN(0 0.5 1000)
+C1 input noninv 1u
+C2 feedback_cap 0 22u
+C3 vee 0 100n
+C4 vee 0 220u
+C5 zobel 0 100n
+C6 0 vcc 100n
+C7 vcc 0 220u
+R1 noninv 0 22k
+R2 inv feedback_cap 680
+R3 inv output 22k
+R4 zobel output 4.7
+XU1 noninv inv vcc vee output AMP_APPROX
+Rload output 0 8
+.nodeset v(output)=0 v(inv)=0 v(noninv)=0
+.end

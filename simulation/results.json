@@ -1,0 +1,30 @@
+{
+  "small_8ohm": {
+    "gain_1khz_V_per_V": 33.33893861916817,
+    "gain_1khz_dB": 30.45903538963827,
+    "output_peak_V": 3.3345883,
+    "output_rms_V": 2.357280695818984,
+    "load_power_W": 0.6945965348601042
+  },
+  "overdrive_8ohm": {
+    "gain_1khz_V_per_V": 33.33893861916817,
+    "gain_1khz_dB": 30.45903538963827,
+    "output_peak_V": 9.87672496,
+    "output_rms_V": 8.50819709608308,
+    "load_power_W": 9.04867722822457
+  },
+  "small_4ohm": {
+    "gain_1khz_V_per_V": 33.3387996728431,
+    "gain_1khz_dB": 30.458999189476835,
+    "output_peak_V": 3.3345726,
+    "output_rms_V": 2.3572699321557753,
+    "load_power_W": 1.3891803832614233
+  },
+  "overdrive_4ohm": {
+    "gain_1khz_V_per_V": 33.3387996728431,
+    "gain_1khz_dB": 30.458999189476835,
+    "output_peak_V": 9.81564205,
+    "output_rms_V": 8.423904000980622,
+    "load_power_W": 17.740539654434333
+  }
+}

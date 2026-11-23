@@ -1,0 +1,38 @@
+** Drc report for 2ndpcb.kicad_pcb **
+** Created on 2026-11-23T19:44:04+0530 **
+** Report includes: Errors, Warnings **
+
+** Found 3 DRC violations **
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(219.7200 mm, 90.7500 mm): Polygon of J1 on F.Silkscreen
+    @(220.7200 mm, 88.2500 mm): Value field of J1 (OUT    GND)
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(163.6075 mm, 93.5000 mm): Value field of J4 (-12V  GND  +12V)
+    @(164.6075 mm, 88.5000 mm): Polygon of J4 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(163.6075 mm, 77.1000 mm): Value field of J2 (IN    GND)
+    @(164.6075 mm, 74.6000 mm): Polygon of J2 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 5 Footprint errors **
+[net_conflict]: Pad net (IN) doesn't match net given by schematic (+5V).
+    Local override; warning
+    @(179.4000 mm, 79.4000 mm): PTH pad 1 [IN] of C1
+[footprint_symbol_mismatch]: Value (J1) doesn't match symbol value (OUT    GND).
+    Local override; warning
+    @(215.0000 mm, 90.7500 mm): Footprint J1
+[footprint_symbol_mismatch]: Value (J2) doesn't match symbol value (IN    GND).
+    Local override; warning
+    @(169.3275 mm, 74.6000 mm): Footprint J2
+[net_conflict]: Pad net (IN) doesn't match net given by schematic (+5V).
+    Local override; warning
+    @(169.3275 mm, 79.6000 mm): PTH pad 2 [IN] of J2
+[footprint_symbol_mismatch]: Value (J4) doesn't match symbol value (-12V  GND  +12V).
+    Local override; warning
+    @(169.3275 mm, 88.5000 mm): Footprint J4
+
+** End of Report **

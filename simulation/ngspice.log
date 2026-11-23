@@ -1,0 +1,121 @@
+stdout ******
+stdout ** ngspice-43 shared library
+stdout ** Creation Date: Sun Sep 29 19:06:09 UTC 2024
+stdout ******
+stdout Note: No compatibility mode selected!
+stdout Circuit: tda2050 circuit connectivity check - approximate model
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+stdout No. of Data Rows : 1
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 501
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout vcc                                         12
+stdout vee                                        -12
+stdout input                                        0
+stdout noninv                                       0
+stdout feedback_cap                                 0
+stdout zobel                                        0
+stdout inv                                          0
+stdout output                                       0
+stdout xu1.drive                                    0
+stdout b.xu1.bdrive#branch                          0
+stdout vinput#branch                                0
+stdout vnegative#branch                             0
+stdout vpositive#branch                             0
+stdout No. of Data Rows : 10001
+stdout Note: No compatibility mode selected!
+stdout Circuit: tda2050 circuit connectivity check - approximate model
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+ Reference value :  0.00000e+00
+stdout No. of Data Rows : 1
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 501
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout vcc                                         12
+stdout vee                                        -12
+stdout input                                        0
+stdout noninv                                       0
+stdout feedback_cap                                 0
+stdout zobel                                        0
+stdout inv                                          0
+stdout output                                       0
+stdout xu1.drive                                    0
+stdout b.xu1.bdrive#branch                          0
+stdout vinput#branch                                0
+stdout vnegative#branch                             0
+stdout vpositive#branch                             0
+ Reference value :  9.63566e-02
+stdout No. of Data Rows : 10147
+stdout Note: No compatibility mode selected!
+stdout Circuit: tda2050 circuit connectivity check - approximate model
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 1
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 501
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout vcc                                         12
+stdout vee                                        -12
+stdout input                                        0
+stdout noninv                                       0
+stdout feedback_cap                                 0
+stdout zobel                                        0
+stdout inv                                          0
+stdout output                                       0
+stdout xu1.drive                                    0
+stdout b.xu1.bdrive#branch                          0
+stdout vinput#branch                                0
+stdout vnegative#branch                             0
+stdout vpositive#branch                             0
+ Reference value :  8.00019e-02
+stdout No. of Data Rows : 10001
+stdout Note: No compatibility mode selected!
+stdout Circuit: tda2050 circuit connectivity check - approximate model
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 1
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout No. of Data Rows : 501
+stdout Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+stderr Using SPARSE 1.3 as Direct Linear Solver
+stdout Initial Transient Solution
+stdout --------------------------
+stdout Node                                   Voltage
+stdout ----                                   -------
+stdout vcc                                         12
+stdout vee                                        -12
+stdout input                                        0
+stdout noninv                                       0
+stdout feedback_cap                                 0
+stdout zobel                                        0
+stdout inv                                          0
+stdout output                                       0
+stdout xu1.drive                                    0
+stdout b.xu1.bdrive#branch                          0
+stdout vinput#branch                                0
+stdout vnegative#branch                             0
+stdout vpositive#branch                             0
+ Reference value :  8.00017e-02
+stdout No. of Data Rows : 10147

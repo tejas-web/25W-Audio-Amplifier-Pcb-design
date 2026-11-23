@@ -1,0 +1,12 @@
+{
+  "source": "/tmp/pcb-audio-test.wav",
+  "sample_rate_Hz": 48000,
+  "duration_s": 0.09997916666666666,
+  "input_peak_V": 0.1,
+  "output_peak_V": 3.38814163,
+  "output_rms_V": 2.357222873192441,
+  "mean_load_power_W": 0.6945624592377034,
+  "load_ohms": 8,
+  "model": "Educational approximation; not a manufacturer TDA2050 model",
+  "output_wav_full_scale_V": 10
+}
