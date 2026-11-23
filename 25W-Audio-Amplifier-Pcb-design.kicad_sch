@@ -2348,7 +2348,7 @@
 			(uuid "c96eea3a-1cc8-4a5a-bd3e-f34519872982")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "J2")
 					(unit 1)
@@ -2414,7 +2414,7 @@
 			(uuid "8121a127-6b76-4da8-8bfc-f455d7a51424")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR05")
 					(unit 1)
@@ -2480,7 +2480,7 @@
 			(uuid "76bfb9d6-6d09-478f-b085-bae5b65ba1df")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR09")
 					(unit 1)
@@ -2553,7 +2553,7 @@
 			(uuid "fbb2b13f-e22d-40cf-bdb4-430d67ebbfc4")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "J4")
 					(unit 1)
@@ -2619,7 +2619,7 @@
 			(uuid "8b5ff73a-e4c8-4a93-8cea-ea896442c353")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR02")
 					(unit 1)
@@ -2685,7 +2685,7 @@
 			(uuid "d1aaff8c-50c7-4a47-bb2f-1c57a8879320")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#FLG02")
 					(unit 1)
@@ -2755,7 +2755,7 @@
 			(uuid "f453261f-61ff-45fd-ab85-75570210c763")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C6")
 					(unit 1)
@@ -2822,7 +2822,7 @@
 			(uuid "8701de11-d1cf-441c-bb00-ab42c79a9218")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#FLG03")
 					(unit 1)
@@ -2892,7 +2892,7 @@
 			(uuid "b20e6762-b1a4-4ef9-bd86-d40328297ae1")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C5")
 					(unit 1)
@@ -2962,7 +2962,7 @@
 			(uuid "6db6f429-32ab-44d5-8ea8-fd9457f2aacc")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "R4")
 					(unit 1)
@@ -3029,7 +3029,7 @@
 			(uuid "b019c75f-b25d-4dcb-a3fc-804aefb8a850")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR04")
 					(unit 1)
@@ -3096,7 +3096,7 @@
 			(uuid "b888010a-3a25-4822-815c-0a2245ff168d")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#FLG01")
 					(unit 1)
@@ -3163,7 +3163,7 @@
 			(uuid "f3519400-c661-4fdd-a103-16bcfa45107e")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR03")
 					(unit 1)
@@ -3231,7 +3231,7 @@
 			(uuid "f344a9ca-a0d3-46d9-b29c-25128524f3cf")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "R3")
 					(unit 1)
@@ -3301,7 +3301,7 @@
 			(uuid "29e0d9bf-f960-4b0a-87df-91b154dd0659")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C7")
 					(unit 1)
@@ -3371,7 +3371,7 @@
 			(uuid "82f73b85-cd1e-4c80-b157-3f6a742a7fdc")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C2")
 					(unit 1)
@@ -3441,7 +3441,7 @@
 			(uuid "6bbd83a3-67ae-45bc-b1b5-76511ee3295c")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C3")
 					(unit 1)
@@ -3511,7 +3511,7 @@
 			(uuid "054439c2-21d9-40c7-9ac0-5a446fe89986")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "R2")
 					(unit 1)
@@ -3581,7 +3581,7 @@
 			(uuid "c7690f2e-002b-4625-af72-d791d0242f9b")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "R1")
 					(unit 1)
@@ -3647,7 +3647,7 @@
 			(uuid "e135e421-e04b-4bae-9626-8212450ff19d")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR06")
 					(unit 1)
@@ -3713,7 +3713,7 @@
 			(uuid "399240d1-9465-42d4-8afc-f70651136f9a")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#PWR01")
 					(unit 1)
@@ -3783,7 +3783,7 @@
 			(uuid "e5c3e9c7-5fff-4cc3-a8a5-5f5d37079c8d")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C4")
 					(unit 1)
@@ -3851,7 +3851,7 @@
 			(uuid "1d63db72-fc88-43f6-a9c3-76fbe8c6f0e8")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "C1")
 					(unit 1)
@@ -3929,7 +3929,7 @@
 			(uuid "3f20dd91-4880-4b81-b48f-b273d8baf3da")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "U1")
 					(unit 1)
@@ -3996,7 +3996,7 @@
 			(uuid "5dba6e83-851a-481e-8ef1-6fcfd3038fbb")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "#FLG04")
 					(unit 1)
@@ -4066,7 +4066,7 @@
 			(uuid "b4005b05-0ba1-4c64-8a49-235b9c46b6b0")
 		)
 		(instances
-			(project "2ndpcb"
+			(project "25W-Audio-Amplifier-Pcb-design"
 				(path "/2c28feae-7023-4afd-9095-2a65ba637289"
 					(reference "J1")
 					(unit 1)

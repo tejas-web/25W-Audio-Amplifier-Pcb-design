@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "2ndpcb.kicad_pro",
+    "filename": "25W-Audio-Amplifier-Pcb-design.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -603,7 +603,7 @@
         "version": 0
       },
       "model_mode": 4,
-      "workbook_filename": "2ndpcb.wbk"
+      "workbook_filename": "25W-Audio-Amplifier-Pcb-design.wbk"
     },
     "page_layout_descr_file": "",
     "plot_directory": "",

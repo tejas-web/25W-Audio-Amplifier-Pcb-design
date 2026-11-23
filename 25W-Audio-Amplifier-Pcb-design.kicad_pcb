@@ -181,7 +181,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/f61d5765-3339-41ad-b5a9-7b8c05e4b9c7")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.62 -5.32)
@@ -530,7 +530,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/91246080-3cd0-4742-8b7a-f0a7b777ee52")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.08 1.37)
@@ -733,7 +733,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3a124804-d101-4361-8c96-430cdd3e42df")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 -1.37)
@@ -916,7 +916,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3723837e-f67d-475b-b2a3-6fc782119663")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -0.12 -1.37)
@@ -1099,7 +1099,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/822410f4-4d5d-48d3-b1a2-d94db3d4fbb0")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.12 -1.37)
@@ -1282,7 +1282,7 @@
 		(property ki_fp_filters "TO*220*StaggerOdd*")
 		(path "/ddda4efb-1bbd-48b3-8232-41b1ac966035")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.71 -3.69)
@@ -1943,7 +1943,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/34a8e0c9-3b65-4d38-9d82-03b68b1780f4")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 4.72)
@@ -2334,7 +2334,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/69885067-c6b1-42ae-9078-56e7c4574458")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 1.37)
@@ -2537,7 +2537,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/6df730d5-6b81-448a-8773-d9377dd20032")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.659698 -2.315)
@@ -4262,7 +4262,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/0b1e2b3d-810f-46b7-a5ee-e6af47d4f346")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.62 4.72)
@@ -4611,7 +4611,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/c63f6a8e-838a-4b78-93c3-fdae5e45a447")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.659698 -2.315)
@@ -6336,7 +6336,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/532f7f37-9566-4fba-a79a-9e0ac1e30e0f")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 1.37)
@@ -6539,7 +6539,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/95a35f5f-37d1-4e11-b815-10c9ede00586")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.54 1.37)
@@ -6742,7 +6742,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/cc5a4596-5b95-4d61-ac85-959bdae0270f")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -8087,7 +8087,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/75134cea-2f1c-4a24-b30b-361dc2d68b10")
 		(sheetname "/")
-		(sheetfile "2ndpcb.kicad_sch")
+		(sheetfile "25W-Audio-Amplifier-Pcb-design.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.6 -0.283)

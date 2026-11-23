@@ -18,10 +18,10 @@ hardware specifications or a manufacturer-validated TDA2050 simulation.
 | --- | --- |
 | ![PCB top](docs/previews/pcb-top.svg) | ![PCB bottom](docs/previews/pcb-bottom.svg) |
 
-![Amplifier schematic](docs/previews/2ndpcb.svg)
+![Amplifier schematic](docs/previews/25W-Audio-Amplifier-Pcb-design.svg)
 
-[Schematic PDF](docs/previews/schematic.pdf) · [KiCad schematic](2ndpcb.kicad_sch) ·
-[KiCad PCB](2ndpcb.kicad_pcb) · [Project settings](2ndpcb.kicad_pro)
+[Schematic PDF](docs/previews/schematic.pdf) · [KiCad schematic](25W-Audio-Amplifier-Pcb-design.kicad_sch) ·
+[KiCad PCB](25W-Audio-Amplifier-Pcb-design.kicad_pcb) · [Project settings](25W-Audio-Amplifier-Pcb-design.kicad_pro)
 
 ## Design specifications
 
@@ -101,7 +101,7 @@ The plotted output is a model result with an 8 Ω resistive load.
 
 ### Reproduce
 
-Open `2ndpcb.kicad_pro` in KiCad 9 with the standard symbol and footprint
+Open `25W-Audio-Amplifier-Pcb-design.kicad_pro` in KiCad 9 with the standard symbol and footprint
 libraries. For simulations, use Python 3 with NumPy, SciPy, Matplotlib and the
 ngspice shared library (`libngspice.so.0` on the tested Linux system).
 
@@ -150,11 +150,11 @@ C4 polarity correction and layout review.
 
 | Path | Contents |
 | --- | --- |
-| `2ndpcb.kicad_pro`, `.kicad_sch`, `.kicad_pcb` | Main editable KiCad design |
+| `25W-Audio-Amplifier-Pcb-design.kicad_pro`, `.kicad_sch`, `.kicad_pcb` | Main editable KiCad design |
 | `docs/` | Preview exports, schematic PDF and BOM |
 | `simulation/` | Python runners, model, netlist, SPICE decks, plots, audio and raw data |
 | `gnd-via-example/` | Separate ground-stitching PCB example, preview and DRC report |
-| `2ndpcb.wbk` | KiCad simulation workbook with operating-point setup |
+| `25W-Audio-Amplifier-Pcb-design.wbk` | KiCad simulation workbook with operating-point setup |
 
 Transient editor locks, local preferences and footprint caches are excluded.
 The KiCad files are from the saved revision 2 design.

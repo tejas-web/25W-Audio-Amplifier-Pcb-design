@@ -1,6 +1,6 @@
 # PCB review before ordering
 
-Reviewed the saved `2ndpcb.kicad_pcb` and schematic. Original design files were not changed. This is a partial design review, not a functional certification.
+Reviewed the saved `25W-Audio-Amplifier-Pcb-design.kicad_pcb` and schematic. Original design files were not changed. This is a partial design review, not a functional certification.
 
 ## Confirmed issue
 

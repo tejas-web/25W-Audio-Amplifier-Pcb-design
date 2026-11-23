@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/media/tejas/Linux/College stuff/Kicd/Kicad projects/2ndpcb/2ndpcb/2ndpcb.kicad_sch</source>
+    <source>25W-Audio-Amplifier-Pcb-design.kicad_sch</source>
     <date>2026-10-23T18:52:12+0530</date>
     <tool>Eeschema 9.0.9-9.0.9~ubuntu22.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
@@ -10,7 +10,7 @@
         <company/>
         <rev/>
         <date/>
-        <source>2ndpcb.kicad_sch</source>
+        <source>25W-Audio-Amplifier-Pcb-design.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -36,7 +36,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,7 +54,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -72,7 +72,7 @@
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -90,7 +90,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -108,7 +108,7 @@
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -126,7 +126,7 @@
       </fields>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="capacitor cap"/>
       <property name="ki_fp_filters" value="C_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -144,7 +144,7 @@
       </fields>
       <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="cap capacitor"/>
       <property name="ki_fp_filters" value="CP_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -162,7 +162,7 @@
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="screw terminal"/>
       <property name="ki_fp_filters" value="TerminalBlock*:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -180,7 +180,7 @@
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="screw terminal"/>
       <property name="ki_fp_filters" value="TerminalBlock*:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -198,7 +198,7 @@
       </fields>
       <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="screw terminal"/>
       <property name="ki_fp_filters" value="TerminalBlock*:*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -216,7 +216,7 @@
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -234,7 +234,7 @@
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -252,7 +252,7 @@
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -270,7 +270,7 @@
       </fields>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="R resistor"/>
       <property name="ki_fp_filters" value="R_*"/>
       <sheetpath names="/" tstamps="/"/>
@@ -288,7 +288,7 @@
       </fields>
       <libsource lib="Amplifier_Audio" part="TDA2050" description="32W Hi-Fi Audio Amplifier, TO-220-5"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="2ndpcb.kicad_sch"/>
+      <property name="Sheetfile" value="25W-Audio-Amplifier-Pcb-design.kicad_sch"/>
       <property name="ki_keywords" value="audio amplifier"/>
       <property name="ki_fp_filters" value="TO*220*StaggerOdd*"/>
       <sheetpath names="/" tstamps="/"/>

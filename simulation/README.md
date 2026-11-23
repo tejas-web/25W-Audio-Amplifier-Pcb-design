@@ -32,7 +32,7 @@ actual voltages. This reuses `small_8ohm.cir` connectivity and
 an approximation of the amplifier, not a validated TDA2050 device simulation.
 Requires the existing numpy, scipy, matplotlib and libngspice installation.
 
-The original schematic and PCB have not been edited. These results apply to the saved `2ndpcb` files, not the autosave files. The circuit uses a TDA2050 with split ±12 V rails.
+The original schematic and PCB have not been edited. These results apply to the saved `25W-Audio-Amplifier-Pcb-design` files, not the autosave files. The circuit uses a TDA2050 with split ±12 V rails.
 
 ## Findings to resolve before powering the PCB
 
@@ -66,7 +66,7 @@ See `response.png`, `results.json`, raw `*_ac.txt` / `*_tran.txt` / `*_op.txt`, 
 The installed ngspice shared library is used directly; no ngspice executable or extra package installation is required. Run from the project directory:
 
 ```sh
-kicad-cli sch export netlist --format kicadxml -o simulation/schematic.net.xml 2ndpcb.kicad_sch
+kicad-cli sch export netlist --format kicadxml -o simulation/schematic.net.xml 25W-Audio-Amplifier-Pcb-design.kicad_sch
 PYTHONNOUSERSITE=1 MPLCONFIGDIR=/tmp/pcb-simulation-mpl python3 simulation/run_simulation.py
 ```
 
