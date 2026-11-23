@@ -1,0 +1,9 @@
+*.kicad_prl
+*.lck
+fp-info-cache
+_autosave-*
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
